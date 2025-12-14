@@ -1,1 +1,1 @@
-# Time module in python.. Moke for fun
+# Time module in python.. Make for fun
